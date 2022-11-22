@@ -1,3 +1,6 @@
 *.fasl
 ulubis
 ulubis.sdl
+
+.direnv/*
+!.direnv/.git-keep
