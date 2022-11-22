@@ -1,6 +1,9 @@
 # Ulubis
 
 # TODO: Left off missing 'libgbm.' Found the repo:  https://ubuntu.pkgs.org/18.04/ubuntu-updates-main-amd64/libgbm-dev_20.0.8-0ubuntu1~18.04.1_amd64.deb.html loosk like its either a part of mesa or may be  hard to find. Uh oh.
+
+it's been packaged for debian here: https://forums.raspberrypi.com/viewtopic.php?t=215271
+
 [![Join the chat at https://gitter.im/ulubis/Lobby](https://badges.gitter.im/ulubis/Lobby.svg)](https://gitter.im/ulubis/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ![Ulubis in action](https://github.com/malcolmstill/ulubis/raw/master/ulubis.gif)
