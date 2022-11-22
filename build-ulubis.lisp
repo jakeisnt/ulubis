@@ -1,3 +1,4 @@
+(load "~/quicklisp/setup.lisp")
 
 (ql:quickload :cffi)
 (ql:quickload :cepl)
